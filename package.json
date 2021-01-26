@@ -1,0 +1,20 @@
+{
+  "name": "bloxlink-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "keywords": [],
+  "author": "Sebastian Erik Bauer <sebastian@simplydata.dev> (https://www.simplydata.dev)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/realsimplydata/bloxlink-fetch.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.22",
+    "@types/node-fetch": "^2.5.8"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
